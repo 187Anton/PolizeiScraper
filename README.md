@@ -1,6 +1,6 @@
 # Scraper Polizei Brandenburg
 
-Dieses Projekt erhebt Polizeimeldungen der Polizei Brandenburg direkt über die Such- und Detailseiten. Der RSS-Feed wird bewusst nicht verwendet, weil dort laut Aufgabenstellung nicht alle relevanten Meldungen auftauchen.
+Dieses Projekt erhebt Polizeimeldungen der Polizei Brandenburg direkt über die Such- und Detailseiten. Der RSS-Feed wird bewusst nicht verwendet, weil dort nicht alle relevanten Meldungen auftauchen.
 
 ## Projektstruktur
 
